@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Wongi Jeong"
   avatar           : "assets/ignow.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MS / Ph.D student ICL, ECE, SNU"
+  bio              : "MS / Ph.D student ICL @ ECE, SNU"
   location         : "Seoul, South Korea"
   email            : 
   links:
