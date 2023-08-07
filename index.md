@@ -9,8 +9,14 @@ I earned my B.S degree in electrical and computer engineering (ECE) from Seoul N
 
 
 <h2>Selected Publications</h2>
-<h4>2023</h4>
-
+<h6>2023</h6>
+<ul>
+  <li>Neural Diffeomorphic Non-uniform B-spline Flows
+  sdlfsdfsdfsd
+  <br>
+  dfdfdfdf
+  </li>
+</ul>
 * #### **Neural Diffeomorphic Non-uniform B-spline Flows**  
 **Seongmin Hong**,  Se Young Chun  
 Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023.  
@@ -21,15 +27,3 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
 IET Radar, Sonar & Navigation, 2023.  
 [[Paper](https://doi.org/10.1049/rsn2.12319)] [<a href="/bibtex.html#hong23advanced">bibTeX</a>]
 
-### 2022
-* #### **On the Robustness of Normalizing Flows for Inverse Problems in Imaging**   
-**Seongmin Hong**, Inbum Park, Se Young Chun  
-ArXiv, 2022.  
-[[arXiv](https://arxiv.org/abs/2212.04319)] [[project](/robustness.html)] [<a href="/bibtex.html#hong23robustness">bibTeX</a>]
-
-
-### 2021
-* #### **Radar Signal Decomposition in Steering Vector Space for Multi-Target Classification**  
-**Seongmin Hong**, Seongwook Lee, Byeong-Ho Lee, Jinwook Kim, Yong-Hwa Kim, Seong-Cheol Kim  
-IEEE Sensors Journal, 2021.  
-[[Paper](https://ieeexplore.ieee.org/abstract/document/9552897)] [<a href="/bibtex.html#hong21radar">bibTeX</a>]
