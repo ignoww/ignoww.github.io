@@ -9,7 +9,7 @@ I earned my B.S degree in electrical and computer engineering (ECE) from Seoul N
 
 
 <h2>Selected Publications</h2>
-<h6>2023</h6>
+<h4>2023</h4>
 
 * #### **Neural Diffeomorphic Non-uniform B-spline Flows**  
 **Seongmin Hong**,  Se Young Chun  
