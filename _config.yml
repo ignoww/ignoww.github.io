@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/wongi-jeong-2b424b25a/"
     - label: "Google scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=5SncxXYAAAAJ&hl=ko"
 
 
