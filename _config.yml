@@ -125,16 +125,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ignoww"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/1__kxxy"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/wongi-jeong-2b424b25a/"
     - label: "Google scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=5SncxXYAAAAJ&hl=ko"
-
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/1__kxxy"
 
 # Site Footer
 footer:
